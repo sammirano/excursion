@@ -15,3 +15,29 @@ display: flex;}
 .newone {color: aquamarine;
 font-size: 16px;
 text-align: center;}
+
+video{
+    display: block;
+    position: relative;
+    left: 37%;
+
+}
+.guide{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+    color: #fff;
+    text-align: center;
+}
+.newclass{
+    color: gray;
+font-size: 21px;
+text-align: center;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.foote{
+    color: gray;
+    text-align: right;
+    font-size: 23px;
+
+}
